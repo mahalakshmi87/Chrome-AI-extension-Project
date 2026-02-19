@@ -346,7 +346,7 @@ Contributions are welcome! Please follow these steps:
 ## 🤝 Support
 
 For issues, feature requests, or questions:
-- Open an issue on the [GitHub repository](https://github.com/mahalakshmi87/GenAI-Tool-development)
+- Open an issue on the [GitHub repository](https://github.com/mahalakshmi87/Chrome-AI-extension-Project)
 - Check existing issues for solutions
 - Provide detailed reproduction steps
 
